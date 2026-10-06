@@ -1,0 +1,17 @@
+{
+  "name": "flex-personel-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flex Personel - shared cloud version with 4 object accounts and admin account",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.16.3"
+  }
+}
